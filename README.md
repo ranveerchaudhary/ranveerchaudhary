@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ranveer%20Chaudhary&color=timeGradient&fontAlign=40&"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ranveer%20Chaudhary&color=0:2A1AD8,50:B948FF&fontAlign=40&fontColor=ffffff"/>
 
 
 <div align="left">
