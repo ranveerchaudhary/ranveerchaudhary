@@ -75,7 +75,7 @@
 
 <h2>🤵 About Me</h2>
 
-<p>Hi :) I'm a machine learning engineer who creates innovative and impactful solutions to address real-world problems. I specialize in cutting-edge technologies. Beyond all the AI stuff, I'm also a top-tier athlete, and to keep myself sane, I make music. Speaking of music, AI's taste in music, well, let's just say it could use a little human touch. That's where my music producer alter ego comes in – bringing melodies to the algorithmic chaos!
+<p>Hi :) I'm a machine learning engineer who creates innovative and impactful solutions to address real-world problems. I specialize in cutting-edge technologies. Beyond all the AI stuff, I'm also a top-tier athlete, and to keep myself sane, I make music. Speaking of music, AI's taste in music is, well, let's just say it could use a little human touch. That's where my music producer alter ego comes in – bringing melodies to the algorithmic chaos!
 </p>
 
 ###
