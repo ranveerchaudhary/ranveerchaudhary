@@ -62,7 +62,9 @@
 ###
 
 <div>
-  <a href="mailto:ranveerchaudhary1000@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>  <a href="https://www.linkedin.com/in/ranveer-chaudhary-785538166"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  
+<a href="mailto:ranveerchaudhary1000@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=850083%20height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a> <a href = "https://www.linkedin.com/in/ranveer-chaudhary-785538166"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=&height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a>  <a href="https://ranveerchaudhary.github.io/"><img src="https://img.shields.io/static/v1?message=Portfolio%20Website&logo=Proto.io&label=&color=A537FD&logoColor=white&labelColor=&style=850083%20height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a>
+  
 </div>
 
 
@@ -72,6 +74,9 @@
 <br clear="both">
 
 <h2>🤵 About Me</h2>
+
+<p>Hi :) I'm a machine learning engineer who creates innovative and impactful solutions to address real-world problems. I specialize in cutting-edge technologies. Beyond all the AI stuff, I'm also a top-tier athlete, and to keep myself sane, I make music. Speaking of music, AI's taste in music, well, let's just say it could use a little human touch. That's where my music producer alter ego comes in – bringing melodies to the algorithmic chaos!
+</p>
 
 ###
 
