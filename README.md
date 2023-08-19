@@ -61,17 +61,23 @@
 
 ###
 
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div>
+  <a href="mailto:ranveerchaudhary1000@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>  <a href="https://www.linkedin.com/in/ranveer-chaudhary-785538166"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
+
+
 
 ###
 
 <br clear="both">
 
-<h2>About Me</h2>
+<h2>🤵 About Me</h2>
 
 ###
+
+<h2>📫 How To Reach Me?</h2>
+<ul>
+<li><a href = "mailto:ranveerchaudhary1000@gmail.com">Email</a></li>
+<li><a href = "https://ranveerchaudhary.github.io/">Portfolio Website</a></li>
+<li><a href = "https://www.linkedin.com/in/ranveer-chaudhary-785538166">LinkedIn</a></li>
+</ul>
