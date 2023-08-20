@@ -84,5 +84,5 @@
 <ul>
 <li><a href = "mailto:ranveerchaudhary1000@gmail.com">Email</a></li>
 <li><a href = "https://ranveerchaudhary.github.io/">Portfolio Website</a></li>
-<li><a href = "https://www.linkedin.com/in/ranveer-chaudhary-785538166">LinkedIn</a></li>
+<li><a href = "https://www.linkedin.com/in/ranveerchaudhary1000/">LinkedIn</a></li>
 </ul>
