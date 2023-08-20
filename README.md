@@ -63,7 +63,7 @@
 
 <div>
   
-<a href="mailto:ranveerchaudhary1000@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=850083%20height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a> <a href = "https://www.linkedin.com/in/ranveer-chaudhary-785538166"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=&height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a>  <a href="https://ranveerchaudhary.github.io/"><img src="https://img.shields.io/static/v1?message=Portfolio%20Website&logo=Proto.io&label=&color=A537FD&logoColor=white&labelColor=&style=850083%20height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a>
+<a href="mailto:ranveerchaudhary1000@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=850083%20height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a> <a href = "https://www.linkedin.com/in/ranveerchaudhary1000/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=&height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a>  <a href="https://ranveerchaudhary.github.io/"><img src="https://img.shields.io/static/v1?message=Portfolio%20Website&logo=Proto.io&label=&color=A537FD&logoColor=white&labelColor=&style=850083%20height=%2235%22%20alt=website%20logo" height="35" alt="linkedin logo" /></a>
   
 </div>
 
