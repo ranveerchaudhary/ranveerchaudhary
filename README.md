@@ -83,7 +83,7 @@
 <h2>📫 How To Reach Me?</h2>
 <ul>
 <li><a href = "mailto:ranveerchaudhary1000+github@gmail.com">Email</a></li>
-<li><a href = "https://www.linkedin.com/in/ranveerchaudhary1000/">LinkedIn</a></li>
+<li><a href = "https://www.linkedin.com/in/ranveerchaudhary1/">LinkedIn</a></li>
 </ul>
 
 ### 
