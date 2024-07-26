@@ -54,9 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  
 </div>
 
 ###
@@ -75,7 +72,7 @@
 
 <h2>🤵 About Me</h2>
 
-<p>Hi :) I'm a machine learning engineer who creates innovative and impactful solutions to address real-world problems. I specialize in cutting-edge technologies. Beyond all the AI stuff, I'm also a top-tier athlete, and to keep myself sane, I make music. Speaking of music, AI's taste in music is, well, let's just say it could use a little human touch. That's where my music producer alter ego comes in ;)
+<p>Hi :) I'm a machine learning engineer who creates innovative and impactful solutions to address real-world problems. I specialize in cutting-edge technologies. Beyond all the AI stuff, I'm also a top-tier athlete, and to keep myself sane, I make music.
 
 ###
 
